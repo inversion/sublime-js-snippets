@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+CK.Logger.warn(${1:msg})${0}
+]]></content>
+    <tabTrigger>cw</tabTrigger>
+    <scope>source.js</scope>
+    <description>CK.Logger.warn</description>
+</snippet>
+
