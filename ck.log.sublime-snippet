@@ -1,9 +1,9 @@
 <snippet>
     <content><![CDATA[
-CK.Logger.log(${1:msg})${0}
+CK.logger.log(${1:msg})${0}
 ]]></content>
     <tabTrigger>cl</tabTrigger>
     <scope>source.js</scope>
-    <description>CK.Logger.log</description>
+    <description>CK.logger.log</description>
 </snippet>
 
